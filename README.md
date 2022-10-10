@@ -1,5 +1,6 @@
 # docker-eicar
-[![Docker Automated build](https://img.shields.io/docker/automated/wdhif/docker-eicar.svg)]() [![Docker Build Status](https://img.shields.io/docker/build/wdhif/docker-eicar.svg)]()  
+![](https://github.com/wdhif/docker-eicar/actions/workflows/main.yml/badge.svg)
+
 A Docker image containing the EICAR test file.
 
 > The EICAR Standard Anti-Virus Test File or EICAR test file is a computer file that was developed by the European Institute for Computer Antivirus Research (EICAR) and Computer Antivirus Research Organization (CARO), to test the response of computer antivirus (AV) programs. Instead of using real malware, which could do real damage, this test file allows people to test anti-virus software without having to use a real computer virus.
