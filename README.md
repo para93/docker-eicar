@@ -1,4 +1,5 @@
 # docker-eicar
+![](https://github.com/wdhif/docker-eicar/actions/workflows/main.yml/badge.svg)
 
 A Docker image containing the EICAR test file.
 
